@@ -16,4 +16,7 @@ i have learnt quite a number of things ranging from Ms Excel to SQL and now my p
 SELECT A,B,C
 WHERE A> 45
 
+### Analysis
+
+
 
