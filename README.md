@@ -9,3 +9,11 @@ i have learnt quite a number of things ranging from Ms Excel to SQL and now my p
 - Ms Excel for data cleaning [download here](https://www.microsoft.com)
 - SQl server (for querying and Analysis)
 - Power bi (for report)
+
+
+### Data Analysis
+--- SQL ----
+SELECT A,B,C
+WHERE A> 45
+
+
